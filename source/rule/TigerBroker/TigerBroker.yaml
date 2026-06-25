@@ -1,0 +1,22 @@
+# NAME: TigerBroker
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/refs/heads/main/HK_Broker.list
+# UPDATED: 2025-06-025 18:17:38
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
+payload:
+    # Tiger Brokers - official domains
+    - DOMAIN-SUFFIX,itiger.com
+    - DOMAIN-SUFFIX,itigerup.com
+    - DOMAIN-SUFFIX,tigerbrokers.com
+    - DOMAIN-SUFFIX,tigerbrokers.net
+    - DOMAIN-SUFFIX,tigerbrokers.nz
+    - DOMAIN-SUFFIX,tigerfintech.com
+    - DOMAIN-SUFFIX,tradeup.com
+    # Tiger Brokers - community and legacy domains
+    - DOMAIN-SUFFIX,laohu8.com
+    - DOMAIN-SUFFIX,tigerbbs.cn
+    - DOMAIN-SUFFIX,tigerbbs.com
+    - DOMAIN-SUFFIX,xiaohu8.com
+    - DOMAIN-SUFFIX,zhijianfengyi.cn
+    - DOMAIN-SUFFIX,zhijianfengyi.com
