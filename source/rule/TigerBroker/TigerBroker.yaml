@@ -20,3 +20,12 @@ payload:
     - DOMAIN-SUFFIX,xiaohu8.com
     - DOMAIN-SUFFIX,zhijianfengyi.cn
     - DOMAIN-SUFFIX,zhijianfengyi.com
+    # Tiger Brokers
+    - DOMAIN-SUFFIX,tradeup.com
+    - DOMAIN-SUFFIX,tigersecurities.com
+    - DOMAIN-SUFFIX,itigergrowtha.com
+    - DOMAIN-SUFFIX,appsflyersdk.com
+    - DOMAIN-SUFFIX,play-analytics.com
+    - DOMAIN-SUFFIX,skytigris.com
+    - DOMAIN-SUFFIX,skytigris.cn
+    - DOMAIN-SUFFIX,jpush.cn
